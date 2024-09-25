@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My github page](My github page)
 
-- 📫 How to reach me **yanajageyz@gmail.com**
+- 📫 How to reach me **facri@student.unp.ac.id**
 
 - ⚡ Fun fact **I like to learn new thing**
 
