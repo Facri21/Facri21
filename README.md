@@ -1,5 +1,4 @@
 <h1 align="center">Hallo👋, I'm Facri Raihan</h1>
-<h3 align="center">A student from Padang State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facri21&label=Profile%20views&color=0e75b6&style=flat" alt="facri21" /> </p>
 
